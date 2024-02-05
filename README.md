@@ -33,17 +33,23 @@ git clone https://github.com/your-username/movie-search-app.git
 
 Navigate to the project directory:
 
+```bash
 cd movie-search-app
+```
 
 Install dependencies:
 
+```bash
 npm install
+```
 
 ## Running the Application
 
 Start the development server:
 
+```bash
 npm start
+```
 
 Open your browser and visit http://localhost:3000 to view the application.
 
