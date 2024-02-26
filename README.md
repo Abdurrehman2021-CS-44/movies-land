@@ -28,7 +28,7 @@ Make sure you have the following installed:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/movie-search-app.git
+git clone https://github.com/Abdurrehman2021-CS-44/movie-search-app.git
 ```
 
 Navigate to the project directory:
